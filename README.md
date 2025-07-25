@@ -54,6 +54,19 @@ Este proyecto aplica técnicas avanzadas de ciencia de datos en un contexto indu
 
 ---
 
+### 📄 Notebook
+
+El cuaderno interactivo contiene todo el flujo de trabajo del proyecto:
+- Carga y preprocesamiento de datos industriales.
+- Análisis exploratorio (EDA) con visualizaciones.
+- Construcción de modelos de regresión para dos etapas del proceso (Rougher y Final).
+- Evaluación con métricas ajustadas al contexto industrial (sMAPE).
+- Discusión de resultados y recomendaciones.  
+
+🔗 Ver notebook completo en GitHub → [mining-kpi-predictive-model](https://github.com/AndresCalvete-DataScientist/mining-kpi-predictive-model/blob/main/mining-kpi-predictive-model.ipynb)
+
+---
+
 ### 📈 Posibles mejoras futuras
 
 - Implementar modelos no lineales más complejos como Gradient Boosting o XGBoost.
